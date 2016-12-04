@@ -61,7 +61,8 @@
     <Compile Include="Examples\1 HelloWorld.cs" />
     <Compile Include="Examples\2 HelloYou.cs" />
     <Compile Include="Examples\3 VarsAndOps.cs" />
-    <Compile Include="Examples\4 Branching.cs" />
+    <Compile Include="Examples\4 Branches.cs" />
+    <Compile Include="Examples\5 Loops.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
